@@ -1,18 +1,35 @@
 # Бази даних MySQL
 [#3 MySQL DataBase](https://github.com/AnD-FLuX/3_MySQL)
 
+**lesson_02**
 
 * **[Урок №2:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_02)**
 Вступ в MySQL
-* **[Урок №3:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_03)**
-Написання простих запитів
-* **[Урок №4:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_04)**
-Написання запитів частина 2
-* **[Урок №5:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_05)**
-Таблиці та зв'язки між ними
-* **[Урок №6:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_06)**
-Робота з об"єднаними таблицями. JOIN.
-* **[Урок №7:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_07)**
-Практика: Проектування БД клон instagram
-* **[Урок №8:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_08)**
-Практика 2. Видалення даних з бази і повторення вивченого
+
+
+Встановити MySQL. Переглянути посилання знизу та створити БД на тему - "Бібліотека". 
+
+Потрібно створити таблицю "книжка" з полями
+
+* назва книги(не null, до 120 символів), 
+* опис(встановити default значення "Опис відсутній"), 
+* дата публікації(не null, default значення "2018-01-01"), 
+* автор(не null, до 60 символів), 
+* категорія(не null, до 30 символів)
+
+
+Добавити в цю таблицю 10 записів. За посиланнями знизу, можете попрактикуватись з написаннями запитів.
+
+Також, коли будете створювати пароль до БД старайтесь зробити його якомога простішим, 
+
+тому що якщо забудете - відновити буде важко і перевстановлення MySQL не завжди допомагає.
+
+*Мануали:
+
+Книга по SQL: https://drive.google.com/file/d/1yxuAyuyMzex65E0fb4Nj-Vmm60n_3ihm/view?...
+
+https://www.w3resource.com/mysql/mysql-tutorials.php
+
+https://www.tutorialspoint.com/mysql/index.htm
+
+http://2sql.ru/*
