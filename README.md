@@ -1,18 +1,31 @@
 # Бази даних MySQL
 [#3 MySQL DataBase](https://github.com/AnD-FLuX/3_MySQL)
 
+**lesson_06**
 
-* **[Урок №2:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_02)**
-Вступ в MySQL
-* **[Урок №3:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_03)**
-Написання простих запитів
-* **[Урок №4:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_04)**
-Написання запитів частина 2
-* **[Урок №5:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_05)**
-Таблиці та зв'язки між ними
 * **[Урок №6:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_06)**
 Робота з об"єднаними таблицями. JOIN.
-* **[Урок №7:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_07)**
-Практика: Проектування БД клон instagram
-* **[Урок №8:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_08)**
-Практика 2. Видалення даних з бази і повторення вивченого
+
+На ДЗ продовжуємо працювати з попередніми завданнями.
+
+1) Вам потрібно переробити БД "бібліотека" таким чином, 
+
+щоб получився зв'язок many-to-many і наповнити даними.
+
+2) Наповнити даними БД, яку самі проектували.
+
+3) Попрактикуватись в написанні JOIN до БД "Бібліотека" і до своєї БД. 
+
+Спробуйте добавити умови і сортування до написаних з використанням JOIN запитів.
+
+Матеріали:
+
+ https://www.w3schools.com/sql/sql_join_inner.asp
+
+ https://www.w3schools.com/sql/sql_join_left.asp
+
+ https://www.w3schools.com/sql/sql_join_right.asp
+
+ http://www.sql-join.com/sql-join-types/
+
+ https://www.dofactory.com/sql/join
