@@ -1,18 +1,45 @@
 # Бази даних MySQL
 [#3 MySQL DataBase](https://github.com/AnD-FLuX/3_MySQL)
 
+**lesson_07**
 
-* **[Урок №2:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_02)**
-Вступ в MySQL
-* **[Урок №3:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_03)**
-Написання простих запитів
-* **[Урок №4:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_04)**
-Написання запитів частина 2
-* **[Урок №5:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_05)**
-Таблиці та зв'язки між ними
-* **[Урок №6:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_06)**
-Робота з об"єднаними таблицями. JOIN.
 * **[Урок №7:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_07)**
 Практика: Проектування БД клон instagram
-* **[Урок №8:](https://github.com/AnD-FLuX/3_MySQL/tree/mysql_lesson_08)**
-Практика 2. Видалення даних з бази і повторення вивченого
+
+Потрібно створити БД невеличкої соціальної мережі з наступними таблицями:
+
+- users
+
+- alboms
+
+- photos
+
+- messages
+
+Не вказую, які колонки потрібно створювати, 
+
+подумайте на цим. 
+
+Вам потрібно побудувати зв'язки між цими таблицями.
+
+Є зв'язки багато-до-багатьох. Подумайте та створіть допоміжні таблиці, щоб правильно реалізувати цей зв'язок.
+
+Добавте індекси до тих таблиць(колонок), дані з яких найчастіше використовуватимуться.
+
+
+
+Наповніть кожну таблицю даними(більше 10 записів) і створіть 20 запитів.
+
+Запити повинні включати в себе агр.функції, join, order by, like і тд. Тобто, все що проходили.
+
+
+
+ДЗ скидуйте як "backup" вашої БД. З даними і запитами.
+
+Матеріали:
+
+https://atech.blog/viaduct/mysql-indexes-primer
+
+http://www.mysqltutorial.org/basic-mysql-tutorial.aspx
+
+https://www.tutorialspoint.com/mysql/index.htm
